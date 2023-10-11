@@ -26,5 +26,5 @@ From top to bottom are the input face, exemplar and refinement normal.
 
 For testing run:
 ```
-python  main_test.py 
+python  test.py 
 ```
