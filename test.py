@@ -7,7 +7,7 @@ import torch.nn as nn
 import torch
 import torchvision
 import numpy as np
-from aug_arc.CascadedNetResNetUNV1FNorm import *
+from net.model import *
 from torchvision import transforms
 from dataloader_TransMEF import  getPhotoDB_PreTrain_23, get_300W_23
 from ssim import SSIM, TV_Loss
