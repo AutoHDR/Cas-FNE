@@ -24,6 +24,12 @@ From top to bottom are the input face, exemplar and refinement normal.
 #### Download checkpoints: 
 * [cpkts](https://drive.google.com/file/d/1jOjVeLVOXLWWu1HACcK_H9BjhBXCOaN7/view?usp=drive_link)
 
+
+For training run:
+```
+python  train.py 
+```
+
 For testing run:
 ```
 python  test.py 
